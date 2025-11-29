@@ -1,0 +1,118 @@
+03/31/10                                        MAYNARD CORPORATION                                             PAGE 1
+10:31                                          ACTIVE EMPLOYEE REPORT
+EMP081
+
+
+FIRSTNAME   LASTNAME     STREET                CITY            STATE  ZIP    HIREDATE  SEX  DEPT                SALARY
+Stephen     McPherson    410 Market St         Boston          MA     02115  06/14/92  M    Data Processing   37800.00
+Dennis      Bender       624 Holiday Hill      Burlington      MA     01803  11/20/94  M    Shipping          47400.00
+Norman      Ungermann    1615 Del Terrace      Concord         MA     01742  05/17/85  M    Marketing         33500.00
+Arnold      Finnley      207 Anglewood Rd      Littleton       MA     01460  05/25/81  M    Shipping          39500.00
+William     Daley        5 Dixwell Blvd        Lexington       MA     02173  01/30/83  M    Accounting        39600.00
+Mary Beth   Stancowicz   91 Belmont Dr         Maynard         MA     01754  10/11/87  F    Accounting        42600.00
+Robert      Tracy        23 Mountain View      Maynard         MA     01754  12/12/87  M    Data Processing   38800.00
+Eugene      Bradford     888 Centre Park Rd    Brookline       MA     02146  07/24/95  M    Marketing         62300.00
+Doug        Williams     9 Lawrence St         Burlington      MA     01803  02/26/90  M    Data Processing   52200.00
+Francis     Lavois       PO Box 1752           Burlington      MA     01803  10/26/93  M    Data Processing   40500.00
+William     Connely      248 Washington St     Jamaica Plain   MA     02130  03/12/90  M    Marketing         53000.00
+Andrew      Bass         44 South Park St      Fitchburg       MA     01420  03/18/89  M    Data Processing   43400.00
+Howard      Loniere      472 North Vincent     Revere          MA     02151  04/30/89  M    Shipping          40250.00
+Abe         Carver       101 Mayflower St      Sudbury         MA     01776  04/04/91  M    Shipping          25500.00
+Don         Craig        1899 Abilene St       Burlington      MA     01803  08/14/94  M    Production        37100.00
+David       Banning      100 Catherine Ave     Burlington      MA     01803  12/18/93  M    Marketing         65500.00
+Kelly       Rosenberg    31 Belvedere Dr       Fitchburg       MA     01420  09/02/87  F    Accounting        41300.00
+Joshua      Fallon       160th Ct W            Sudbury         MA     01776  01/05/95  M    Marketing         63300.00
+Gwen        Davies       22 Punta Del Este     Sudbury         MA     01776  10/23/83  F    Production        32900.00
+Oliver      Davies       8 George Dr           Westboro        MA     01581  02/28/85  M    Production        28700.00
+Paula       Mendleson    89 Lincoln St         Boston          MA     02135  07/18/85  F    Marketing         48040.00
+Marlena     Evans        799 51 St. NE         Lowell          MA     01853  06/04/90  F    Data Processing   44100.00
+Elizabeth   Woodruff     364 East Main         Sudbury         MA     01776  06/23/93  F    Accounting        48500.00
+Wayne       Sedlinski    PO Box 149            Lowell          MA     01853  04/12/91  M    Shipping          39400.00
+George      Miller       13 Scenic Dr.         Millbury        MA     01527  03/18/86  M    Data Processing   35000.00
+Barry       Johnston     173 Bolston St        Boston          MA     02172  12/28/86  M    Data Processing   44700.00
+Liz         Chandler     255 Denise Rd         Reading         MA     01867  05/04/84  F    Marketing         58900.00
+Teresa      Leiberman    254 Wilson Ave        Carlisle        MA     01741  07/03/87  F    Marketing         48250.00
+Don         Kincaid      9 Nye Rd              Burlington      MA     01803  03/04/85  M    Production        37300.00
+Joseph      Manfretti    24 Collin Ave         Carlisle        MA     01741  08/23/89  M    Marketing         46750.00
+Jeff        Aldridge     153 Parker Ave        Medford         MA     02155  10/13/85  M    Accounting        43000.00
+Maggie      Horton       2399 Cypress Rd       Sudbury         MA     01776  11/05/85  F    Shipping          26300.00
+Anne        Bartholemew  943 Boulton St        Brookfield      MA     02157  11/18/83  F    Marketing         42800.00
+George      Bayliss      27 Lenbrook Lane      Sudbury         MA     01776  04/03/82  M    Shipping          25500.00
+Anna        Brady        99 Spruce Place       Maynard         MA     01754  03/28/83  F    Shipping          26800.00
+Chris       Kositchek    99 Bingham Dr         Sudbury         MA     01776  12/03/83  F    Shipping          25100.00
+Rae Ann     Howard       845 Richland Ln       Concord         MA     01742  01/04/86  F    Data Processing   41200.00
+Julie       Williams     12 Horizon Hill Dr    Andover         MA     01810  02/24/91  F    Shipping          25000.00
+Alice       Horton       8 Daniels Place, N    West Boylston   MA     01583  09/30/87  F    Data Processing   39500.00
+Lynn        Hubbard      24 Bristol Dr         Sudbury         MA     01776  06/30/85  F    Data Processing   36500.00
+Martin      Valesquez    14 King St            Concord         MA     01742  04/16/87  M    Shipping          33550.00
+George      Ingles       137 Newton St         Chelsea         MA     02150  05/02/86  M    Marketing         42700.00
+Norma       Curtis       28 Herbert Rd         Boston          MA     02178  08/20/86  F    Production        37700.00
+James       Condon       9 Oak Valley Dr       Sudbury         MA     01776  06/04/95  M    Data Processing   57300.00
+03/31/10                                        MAYNARD CORPORATION                                             PAGE 2
+10:31                                          ACTIVE EMPLOYEE REPORT
+EMP081
+
+
+FIRSTNAME   LASTNAME     STREET                CITY            STATE  ZIP    HIREDATE  SEX  DEPT                SALARY
+Mitzi       Matuso       12 McCurley Dr        Boston          MA     02114  10/13/85  F    Data Processing   42500.00
+Martha      Bittner      109 23rd Ave          North Reading   MA     01864  12/18/91  F    Data Processing   57300.00
+Alana       Marshall     1018 S Wabash Ave     Shirley         MA     01464  11/18/93  F    Accounting        27500.00
+Armstrong   Hampsted     45 Willow Dr          Sudbury         MA     01776  03/18/89  M    Marketing         54800.00
+Mary        Pascurelli   39 Wayne St           Lowell          MA     01853  04/03/82  F    Marketing         57000.00
+Danny       Grant        1211 Rockwell St      Burlington      MA     01803  11/20/94  M    Production        25300.00
+Alex        Valente      27 Lenbrook Lane      Sudbury         MA     01776  09/24/83  M    Data Processing   37800.00 
+Dennis      Early        624 Holiday Hill      Burlington      MA     01803  03/28/83  M    Shipping          47400.00 
+Jeff        Desmarais    153 Parker Ave        Medford         MA     02155  04/04/91  M    Marketing         33500.00 
+William     Viator       248 Washington St     Framingham      MA     01701  05/04/84  M    Shipping          39500.00 
+William     Georges      5 Dixwell Blvd        Lexington       MA     02173  06/04/95  M    Accounting        39600.00 
+Anna        Gluck        99 Spruce Place       Maynard         MA     01754  03/12/90  F    Accounting        42600.00 
+Elizabeth   Woodley      364 East Main         Sudbury         MA     01776  08/14/92  F    Data Processing   38800.00 
+Julie       Pappas       12 Horizon Hill Dr    Leominster      MA     01453  08/20/86  F    Marketing         62300.00 
+Barry       Rivera       173 Bolston St        Boston          MA     02172  01/30/83  M    Data Processing   52200.00 
+Anne        April        943 Boulton St.       Worcester       MA     01608  10/23/83  F    Marketing         53000.00 
+Roberta     Condon       9 Oak Valley Dr       Sudbury         MA     01776  02/28/85  F    Data Processing   43400.00 
+Chris       Talberth     99 Bingham Dr         Sudbury         MA     01776  06/04/90  M    Data Processing   40500.00 
+Howard      Finkle       472 North Vincent     Leominster      MA     01453  01/05/83  M    Shipping          40250.00 
+Oliver      Fiore        8 George Dr           Westboro        MA     01581  05/25/81  M    Shipping          25500.00 
+John        Pascurelli   39 Wayne St           Lowell          MA     01853  11/05/85  M    Production        37100.00 
+Francis     Hill         PO Box 1752           Burlington      MA     01803  09/30/87  F    Marketing         65500.00 
+Teresa      Poretsky     254 Wilson Ave        Marlborough     MA     01752  01/04/86  F    Accounting        41300.00  
+Rae Ann     Carpenter    845 Richland Ln       Concord         MA     01742  06/30/85  F    Marketing         63300.00 
+Alice       Turner       8 Daniels Place, N    Marlborough     MA     01752  05/02/95  F    Production        32900.00 
+Joseph      Osborne      24 Collin Ave         Framingham      MA     01701  12/28/86  M    Production        28700.00 
+Stephen     Carlson      410 Market St         Boston          MA     02115  03/04/85  M    Marketing         48040.00 
+Linda       Matuso       12 McCurley Dr        Boston          MA     02114  12/03/83  F    Data Processing   44100.00 
+Doug        Jacobson     9 Lawrence St         Burlington      MA     01803  10/26/88  M    Accounting        48500.00 
+Linda       Ingles       137 Newton St         Chelsea         MA     02150  07/03/87  F    Shipping          39400.00 
+Gwen        Isenberg     22 Punta Del Este     Sudbury         MA     01776  04/30/89  F    Data Processing   35000.00 
+Liz         Pederson     255 Denise Rd         Reading         MA     01867  08/23/89  F    Data Processing   44700.00 
+Marlena     Stratton     799 51 St. NE         Lowell          MA     01853  06/14/94  F    Marketing         58900.00 
+Joshua      Palentier    160th Ct W            Sudbury         MA     01776  07/18/85  M    Marketing         48250.00 
+Andrew      Dollar       44 South Park St      Fitchburg       MA     01420  03/18/86  M    Production        37300.00 
+Robert      Hendrickson  23 Mountain View      Maynard         MA     01754  09/02/86  M    Marketing         46750.00 
+Wayne       Martins      238 Riveredge Rd      Lowell          MA     01853  04/12/91  M    Accounting        43000.00 
+Don         Walters      1899 Abilene St       Burlington      MA     01803  10/11/87  M    Shipping          26300.00 
+Danny       Cohen        1211 Rockwell St      Burlington      MA     01803  12/12/87  M    Marketing         43800.00 
+Abe         Katz         101 Mayflower St      Sudbury         MA     01776  05/17/93  M    Shipping          25500.00 
+Eugene      Durand       888 Centre Park Rd    Brookline       MA     02146  04/16/87  M    Shipping          26800.00 
+Kelly       Stirrat      31 Belvedere Dr       Fitchburg       MA     01420  02/26/90  F    Shipping          25100.00 
+Arnold      Finn         207 Anglewood Rd      Littleton       MA     01460  02/24/91  M    Data Processing   41200.00 
+03/31/10                                        MAYNARD CORPORATION                                             PAGE 3
+10:31                                          ACTIVE EMPLOYEE REPORT
+EMP081
+
+
+FIRSTNAME   LASTNAME     STREET                CITY            STATE  ZIP    HIREDATE  SEX  DEPT                SALARY
+Norman      Unger        1615 Del Terrace      Concord         MA     01742  02/26/90  M    Shipping          25000.00 
+Mary Beth   Kelley       91 Belmont Dr         Maynard         MA     01754  03/12/90  F    Data Processing   39500.00 
+Herb        Bittner      109 23rd Ave          North Reading   MA     01864  03/18/95  M    Data Processing   36500.00 
+Lynn        Kopek        24 Bristol Dr         Sudbury         MA     01776  10/26/88  F    Shipping          33550.00 
+George      Valensuela   13 Scenic Dr.         Waltham         MA     02154  04/30/89  M    Marketing         42700.00 
+David       Burke        100 Catherine Ave     Burlington      MA     01803  04/04/91  M    Production        37700.00
+Neil        Curtis       28 Herbert Rd         Boston          MA     02178  08/14/92  M    Data Processing   57300.00 
+Marrietta   Valesquez    14 King St            Concord         MA     01742  12/18/93  F    Data Processing   42500.00 
+Don         Ross         9 Nye Rd              Burlington      MA     01803  09/02/86  M    Data Processing   57300.00 
+Paula       Russo        89 Lincoln St         Boston          MA     02135  01/05/83  F    Accounting        27500.00 
+Alex        Marshall     1018 S Wabash Ave     Shirley         MA     01464  10/23/83  M    Marketing         54800.00 
+Maggie      Horgan       2399 Cypress Rd       Sudbury         MA     01776  02/28/94  F    Marketing         57000.00 
+Burgess     Hampsted     45 Willow Dr          Sudbury         MA     01776  07/18/85  M    Production        25300.00 
